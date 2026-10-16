@@ -1,8 +1,8 @@
 # Assignment 4 — Forms and Validation
 
-**Student name:** Nazhim Adilbek \n
-**Group:** SE-2539 \n
-**Course:** Front-End Development \n
+**Student name:** Nazhim Adilbek 
+**Group:** SE-2539 
+**Course:** Front-End Development 
 
 ## Project overview
 This project demonstrates basic HTML forms, built-in HTML5 validation, Bootstrap form styling, Bootstrap validation feedback, and a responsive registration form.
